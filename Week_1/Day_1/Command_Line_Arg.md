@@ -78,3 +78,14 @@ use minimist to simplify
 use yargs for more powerful tool
 
 done 15:07
+
+## Keyboard Shortcuts - Important.
+altab
+
+cmd + ~, for when you have multiple chrome window
+
+cmd-t newtab
+
+cmd - <- ->
+
+cmd / comment
